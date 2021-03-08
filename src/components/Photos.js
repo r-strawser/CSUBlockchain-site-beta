@@ -17,7 +17,7 @@ export default class photos extends Component {
                     hoverable={false}
                     style={{ width: '50%', marginLeft: 'auto', marginRight: 'auto', textAlign: 'center'}}
                     bordered={false}
-                    cover={<img alt="example" src="images/photo1.jpg" />}
+                    cover={<img alt="example" src="images\Logos\Encode-Club\PNGs\official-society_01.png" />}
                   >
                   <Meta style={{ fontSize: '15px'}}
                     title="Cornell"
@@ -29,7 +29,7 @@ export default class photos extends Component {
                     hoverable={false}
                     style={{ width: '50%', marginLeft: 'auto', marginRight: 'auto', textAlign: 'center'}}
                     bordered={false}
-                    cover={<img alt="example" src="images/photo2.jpg" />}
+                    cover={<img alt="example" src="images\Logos\Encode-Club\PNGs\official-society_01b.png" />}
                   >
                   <Meta style={{ fontSize: '15px' }}
                     title="Upenn"
@@ -44,7 +44,7 @@ export default class photos extends Component {
                     hoverable={false}
                     style={{ width: '50%', marginLeft: 'auto', marginRight: 'auto', textAlign: 'center'}}
                     bordered={false}
-                    cover={<img alt="example" src="images/photo2.jpg" />}
+                    cover={<img alt="example" src="images\Logos\Encode-Club\PNGs\official-society_01.png" />}
                   >
                   <Meta style={{ fontSize: '15px'}}
                     title="UMich"
@@ -57,7 +57,7 @@ export default class photos extends Component {
                     hoverable={false}
                     style={{ width: '50%', marginLeft: 'auto', marginRight: 'auto', textAlign: 'center'}}
                     bordered={false}
-                    cover={<img alt="example" src="images/photo3.jpg" />}
+                    cover={<img alt="example" src="images\Logos\Encode-Club\PNGs\official-society_01b.png" />}
                   >
                   <Meta style={{ fontSize: '15px'}}
                     title="MIT"
@@ -70,7 +70,33 @@ export default class photos extends Component {
                     hoverable={false}
                     style={{ width: '50%', marginLeft: 'auto', marginRight: 'auto', textAlign: 'center'}}
                     bordered={false}
-                    cover={<img alt="example" src="images/photo2.jpg" />}
+                    cover={<img alt="example" src="images\Logos\Encode-Club\PNGs\official-society_01.png" />}
+                  >
+                  <Meta style={{ fontSize: '15px'}}
+                    title="Caltech"
+                    description="Second"
+                  />
+                  </Card>
+                </Col>
+                <Col xs={12} sm={8} md={8} lg={8}>
+                  <Card
+                    hoverable={false}
+                    style={{ width: '50%', marginLeft: 'auto', marginRight: 'auto', textAlign: 'center'}}
+                    bordered={false}
+                    cover={<img alt="example" src="images\Logos\Encode-Club\PNGs\official-society_01b.png" />}
+                  >
+                  <Meta style={{ fontSize: '15px'}}
+                    title="Caltech"
+                    description="Second"
+                  />
+                  </Card>
+                </Col>
+                <Col xs={12} sm={8} md={8} lg={8}>
+                  <Card
+                    hoverable={false}
+                    style={{ width: '50%', marginLeft: 'auto', marginRight: 'auto', textAlign: 'center'}}
+                    bordered={false}
+                    cover={<img alt="example" src="images\Logos\Encode-Club\PNGs\official-society_01.png" />}
                   >
                   <Meta style={{ fontSize: '15px'}}
                     title="Caltech"

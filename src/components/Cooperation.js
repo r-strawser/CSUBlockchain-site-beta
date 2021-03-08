@@ -7,14 +7,14 @@ export default class Cooperation extends Component {
 					<section id="cooperations" style={{ background: 'white' }}>
 						<div className="row" >
 							<div className="twelve columns" >
-							<h1>Cooperator</h1>
+							<h1>Cooperators</h1>
 								<Row>
 									<Col xs={6} sm={6} md={6} lg={4}>
 										<Card
 											hoverable={false}
 											style={{ width: '50%', marginLeft: 'auto', marginRight: 'auto', textAlign: 'center'}}
 											bordered={false}
-											cover={<img alt="example" src="images/photo2.jpg" />}
+											cover={<img alt="example" src="images\Logos\Encode-Club\PNGs\official-society_01.png" />}
 										>
 										</Card>
 									</Col>
@@ -23,7 +23,7 @@ export default class Cooperation extends Component {
 											hoverable={false}
 											style={{ width: '50%', marginLeft: 'auto', marginRight: 'auto', textAlign: 'center'}}
 											bordered={false}
-											cover={<img alt="example" src="images/photo1.jpg" />}
+											cover={<img alt="example" src="images\Logos\Encode-Club\PNGs\official-society_01b.png" />}
 										>
 										</Card>
 									</Col>

@@ -19,7 +19,7 @@ export default class ContactUs extends Component {
               <span>Email: {webData.email}</span>
             </p>
             <br></br>
-            <img src='images/2880px-Cornell_University_logo.svg.png' alt='' style={{ height:71.5 }}></img>
+            <img src='images/NewCSU-stacked.jpg' alt='' style={{ height:71.5 }}></img>
           </div>
         </div>
       </section>

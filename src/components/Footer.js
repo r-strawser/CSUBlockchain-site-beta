@@ -27,9 +27,9 @@ export default class Footer extends Component {
           </a>
         </div>
         <div>
-        <a href='https://www.linkedin.com/in/y-yan'>&copy;</a>2019 Cornell Quant Club&nbsp;|&nbsp; All right reserved.
+        <a href='https://www.linkedin.com/in/cleveland-state-university'>&copy;</a>2021 CSU Blockchain&nbsp;|&nbsp; All right reserved.
          <br></br>
-         Cornell University, Ithaca, NY
+         Cleveland State University, Cleveland, OH
         </div>
       </div>
     </footer>

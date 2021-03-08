@@ -1,12 +1,12 @@
 let webData = {
-    "role": "In Cornell Quant We Trust",
-    "name": "Cornell Quant Club ",
-    "addr": "Cornell University",
-    "email": "hz459@cornell.edu",
+    "role": "Innovating In Cleveland",
+    "name": "CSU Blockchain ",
+    "addr": "Cleveland State University",
+    "email": "r.m.strawser13@vikes.csuohio.edu",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/y-yan",
+          "url":"https://www.linkedin.com/school/cleveland-state-university/",
           "className":"fa fa-linkedin"
         },
         {
@@ -16,7 +16,7 @@ let webData = {
         },
         {
           "name":"ins",
-          "url":"https://www.instagram.com/vency012/",
+          "url":"https://www.instagram.com/cle_state/",
           "className":"fa fa-instagram"
         }
       ],
@@ -73,15 +73,15 @@ let webData = {
     ],
     "testimonials":[
       {
-        "description":"God's Plan",
+        "description":"What if giraffes could swim?",
         "name":"Drake"
       },
       {
-        "description":"This is the best Web.",
+        "description":"The internet was made with salad dressing.",
         "name":"Yiming"
       },
       {
-        "description":"Exactly",
+        "description":"Who would win in a fight, a rhino or a hippo?",
         "name":"Yan"
       }
     ]
