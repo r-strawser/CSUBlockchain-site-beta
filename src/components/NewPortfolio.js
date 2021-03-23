@@ -28,7 +28,7 @@ export default class Porfolio extends Component {
 			<section id="portfolio" style={{ background: '#fafbff'}}>
 				<div className="row">
 					<div className="twelve columns" >
-						<h1>Current Work</h1>
+						<h1>Events</h1>
 							<List
 								itemLayout="vertical"
 								size="default"
@@ -44,7 +44,7 @@ export default class Porfolio extends Component {
 									<List.Item
 										key={item.title}
 										// actions={[<IconText type="star-o" text="156" />, <IconText type="like-o" text="156" />, <IconText type="message" text="2" />]}
-										extra={<img id='newportfolio_' width={400} alt="logo" src={item.imgurl} />}
+										extra={<img id='newportfolio_' width={200} alt="logo" src={item.imgurl} />}
 										style={{ textAlign: "justify" }}
 									>
 									<List.Item.Meta

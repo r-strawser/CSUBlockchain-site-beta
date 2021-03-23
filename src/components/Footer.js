@@ -22,12 +22,12 @@ export default class Footer extends Component {
           </ul>
         </div>
         <div id="go-top">
-          <a style={{ background: '#b41a20' }} className="smoothscroll" title="Back to Top" href="#home">
+          <a style={{ background: '#69BE28' }} className="smoothscroll" title="Back to Top" href="#home">
             <i className="icon-up-open"/>
           </a>
         </div>
         <div>
-        <a href='https://www.linkedin.com/in/cleveland-state-university'>&copy;</a>2021 CSU Blockchain&nbsp;|&nbsp; All right reserved.
+        <a href='https://twitter.com/CSUBlockchain'>&copy;</a>2021 CSU Blockchain&nbsp;|&nbsp; All right reserved.&nbsp; | Template By Cornell Club&nbsp;
          <br></br>
          Cleveland State University, Cleveland, OH
         </div>

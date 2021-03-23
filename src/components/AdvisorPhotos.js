@@ -14,27 +14,27 @@ export default class photos extends Component {
                 <Col sm={4} md={4} lg={4}></Col>
                 <Col xs={12} sm={8} md={8} lg={8}>
                   <Card
-                    hoverable={false}
+                    hoverable={true}
                     style={{ width: '50%', marginLeft: 'auto', marginRight: 'auto', textAlign: 'center'}}
                     bordered={false}
-                    cover={<img alt="example" src="images\Logos\Encode-Club\PNGs\official-society_01.png" />}
+                    cover={<img alt="example" src="images\Headshots\profile-pic-zhao.jpg" />}
                   >
                   <Meta style={{ fontSize: '15px' }}
-                    title="CSU"
-                    description="Engineering"
+                    title="Dr.Wenbing Zhao"
+                    description="Faculty Advisor"
                   />
                   </Card>
                 </Col>
                 <Col xs={12} sm={8} md={8} lg={8}>
                   <Card
-                    hoverable={false}
+                    hoverable={true}
                     style={{ width: '50%', marginLeft: 'auto', marginRight: 'auto', textAlign: 'center'}}
                     bordered={false}
-                    cover={<img alt="example" src="images\Logos\Encode-Club\PNGs\official-society_01b.png" />}
+                    cover={<img alt="example" src="images\Headshots\profile-pic-ray-1.jpg" />}
                   >
                   <Meta style={{ fontSize: '15px' }}
-                    title="CSU"
-                    description="Legal"
+                    title="Dr. Brian Ray, J.D."
+                    description="Strategic Advisor"
                   />
                   </Card>
                 </Col>

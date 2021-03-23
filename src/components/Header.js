@@ -33,13 +33,12 @@ export default class Header extends Component {
           <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
           <a className="mobile-btn" href="#nav-wrap-close" title="Hide navigation">Hide navigation</a>
           <ul id="nav" className="nav">
+            {/* <li className="current"><a className="smoothscroll" href="#lgo"><img id='logo_' alt="siteLogo" src="images\Headshots\profile-pic-shadi.jpg" style={{ width:80 }}/></a></li> */}
             <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
             <li><a className="smoothscroll" href="#mission">Mission</a></li>
-            <li><a className="smoothscroll" href="#portfolio">Work</a></li>
+            <li><a className="smoothscroll" href="#portfolio">Events</a></li>
             <li><a className="smoothscroll" href="#photos">Team</a></li>
-            <li><a className="smoothscroll" href="#timeline">Timeline</a></li>
-            <li id='testimonials_li'><a className="smoothscroll" href="#testimonials">Words</a></li>
-            <li><a className="smoothscroll" href="#cooperations">Cooperators</a></li>
+            <li><a className="smoothscroll" href="#cooperations">Partners</a></li>
             <li><a className="smoothscroll" href="#contact">Contact</a></li>
           </ul>
         </nav>

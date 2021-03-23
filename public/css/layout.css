@@ -65,8 +65,9 @@ header .banner-text h1 {
    font: 90px/1.1em 'opensans-bold', sans-serif;
    color: #fff;
    letter-spacing: -2px;
-   margin: 0 auto 18px auto;
+   margin: 0 auto 40px auto;
    text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
+   left: 50px;
 }
 header .banner-text h3 {
    font: 18px/1.9em 'librebaskerville-regular', serif;
@@ -99,13 +100,13 @@ header .social li {
    padding: 0;
 }
 header .social li a { color: #fff; }
-header .social li a:hover { color: #11ABB0; }
+header .social li a:hover { color: #69BE28; }
 
 /* scrolldown link */
 header .scrolldown a {
    position: absolute;
    bottom: 30px;
-   left: 50%;
+   left: 49.75%;
    margin-left: -29px;
    color: #fff;
    display: block;
@@ -121,7 +122,7 @@ header .scrolldown a {
    -o-transition: all .3s ease-in-out;
    transition: all .3s ease-in-out;
 }
-header .scrolldown a:hover { color: #11ABB0; }
+header .scrolldown a:hover { color: #69BE28; }
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -135,7 +136,7 @@ header .scrolldown a:hover { color: #11ABB0; }
 /* nav-wrap */
 #nav-wrap {
    font: 16px 'opensans-bold', sans-serif;
-   width: 100%;
+   width: 150%;
    text-transform: uppercase;
    letter-spacing: 2.5px;
    margin: 0 auto;
@@ -144,7 +145,7 @@ header .scrolldown a:hover { color: #11ABB0; }
    left: 0;
    top: 0;
 }
-.opaque { background-color: #333; }
+.opaque { background-color: #69BE28; }
 
 /* hide toggle button */
 #nav-wrap > a.mobile-btn { display: none; }
@@ -183,7 +184,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+ul#nav li.current a { color: #006A4D; }
 
 
 /* ------------------------------------------------------------------ */
@@ -198,7 +199,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 #about a, #about a:visited  { color: #fff; }
-#about a:hover, #about a:focus { color: #11ABB0; }
+#about a:hover, #about a:focus { color: #69BE28; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
@@ -226,7 +227,7 @@ ul#nav li.current a { color: #F06000; }
    background: #444;
 }
 #about .download .button:hover {
-   background: #fff;
+   background: #69BE28;
    color: #2B2B2B;
 }
 #about .download .button i {
@@ -246,7 +247,7 @@ ul#nav li.current a { color: #F06000; }
    overflow: hidden;
 }
 
-#mission a, #mission a:visited  { color: #11ABB0; }
+#mission a, #mission a:visited  { color: #69BE28; }
 #mission a:hover, #mission a:focus { color: #313131; }
 
 #mission h1 {
@@ -255,7 +256,7 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 1px;
 }
 #mission h1 span {
-   border-bottom: 3px solid #11ABB0;
+   border-bottom: 3px solid #69BE28;
    padding-bottom: 2px;
 }
 #mission h3 {
@@ -1459,7 +1460,7 @@ call-to-action .button {
 
 #contact h4 {
    font: 24px/32px 'opensans-bold', sans-serif;
-   color: rgb(180, 26, 32);
+   color: #69BE28;
    /* margin-bottom: 6px; */
 }
 #contact p.lead {
