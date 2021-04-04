@@ -1,24 +1,24 @@
 let webData = {
-    "role": "Stay Tuned for dates of when we will be meeting!",
+    "role": "Subscribe to our newsletter by clicking the envelope icon below!",
     "name": "CSU Blockchain ",
     "addr": "Cleveland State University",
     "email": "r.m.strawser13@vikes.csuohio.edu",
     "socialLinks":[
-        {
+        /*{
           "name":"twitter",
           "url":"https://twitter.com/CSUBlockchain",
           "className":"fa fa-twitter"
-        },
+        },*/
         {
           "name":"zoom",
-          "url":"https://zoom.us/",
-          "className":"fa fa-video-camera"
-        },
-        {
+          "url":"http://eepurl.com/huRFIL",
+          "className":"fa fa-envelope"
+        }
+        /*{
           "name":"ins",
           "url":"https://www.instagram.com/csu_blockchain/",
           "className":"fa fa-instagram"
-        }
+        }*/
       ],
     "mission":[
       {
@@ -29,9 +29,9 @@ let webData = {
       {
         "name":"CSU Blockchain Orientation",
         "description":"Orienation",
-        "content":"Stay tuned for dates! We are in the process of adding a newsletter subscription for staying up to date with all things CSU Blockchain.",
+        "content":"Stay tuned for dates! Click on the envelope icon to subscribe to our newsletter.",
         "imgurl":"images/Logos/CSU-Blockchain/CSUB_logo_2.png",
-        "url": "www.google.com"
+        "url": "http://eepurl.com/huRFIL"
       }
     ],
     "PastPortfolio":[
