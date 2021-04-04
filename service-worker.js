@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/CSUBlockchain-site-beta/precache-manifest.ee194ab91a71396d3579daef2d142fa2.js"
+  "/CSUBlockchain-site-beta/precache-manifest.6255e5a03869ec293d1efae2dad9e0f4.js"
 );
 
 workbox.clientsClaim();
