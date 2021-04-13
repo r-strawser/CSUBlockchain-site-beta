@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ca5b51ce8c6c0dd260d9",
+    "revision": "053bb9333913c49de586",
     "url": "/CSUBlockchain-site-beta/static/css/main.ba673162.chunk.css"
   },
   {
-    "revision": "ca5b51ce8c6c0dd260d9",
-    "url": "/CSUBlockchain-site-beta/static/js/main.ca5b51ce.chunk.js"
+    "revision": "053bb9333913c49de586",
+    "url": "/CSUBlockchain-site-beta/static/js/main.053bb933.chunk.js"
   },
   {
     "revision": "405acd2a05e8cd94bfdf",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/CSUBlockchain-site-beta/static/js/runtime~main.b5c89d30.js"
   },
   {
-    "revision": "08b12fd3f7057a074f2c848284afc68c",
+    "revision": "f3c38b187fcfebe5c9f12a2111ed9df4",
     "url": "/CSUBlockchain-site-beta/index.html"
   }
 ];

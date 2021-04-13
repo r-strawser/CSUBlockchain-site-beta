@@ -1,7 +1,7 @@
 {
   "main.css": "/CSUBlockchain-site-beta/static/css/main.ba673162.chunk.css",
-  "main.js": "/CSUBlockchain-site-beta/static/js/main.ca5b51ce.chunk.js",
-  "main.js.map": "/CSUBlockchain-site-beta/static/js/main.ca5b51ce.chunk.js.map",
+  "main.js": "/CSUBlockchain-site-beta/static/js/main.053bb933.chunk.js",
+  "main.js.map": "/CSUBlockchain-site-beta/static/js/main.053bb933.chunk.js.map",
   "static/css/1.7333e154.chunk.css": "/CSUBlockchain-site-beta/static/css/1.7333e154.chunk.css",
   "static/js/1.405acd2a.chunk.js": "/CSUBlockchain-site-beta/static/js/1.405acd2a.chunk.js",
   "static/js/1.405acd2a.chunk.js.map": "/CSUBlockchain-site-beta/static/js/1.405acd2a.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.7333e154.chunk.css.map": "/CSUBlockchain-site-beta/static/css/1.7333e154.chunk.css.map",
   "static/css/main.ba673162.chunk.css.map": "/CSUBlockchain-site-beta/static/css/main.ba673162.chunk.css.map",
   "index.html": "/CSUBlockchain-site-beta/index.html",
-  "precache-manifest.6255e5a03869ec293d1efae2dad9e0f4.js": "/CSUBlockchain-site-beta/precache-manifest.6255e5a03869ec293d1efae2dad9e0f4.js",
+  "precache-manifest.257e0f661202ba74d0a3613d96354c57.js": "/CSUBlockchain-site-beta/precache-manifest.257e0f661202ba74d0a3613d96354c57.js",
   "service-worker.js": "/CSUBlockchain-site-beta/service-worker.js"
 }
