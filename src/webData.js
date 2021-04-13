@@ -30,7 +30,7 @@ let webData = {
         "name":"CSU Blockchain Orientation",
         "description":"Orienation",
         "content":"Stay tuned for dates! Click on the envelope icon to subscribe to our newsletter.",
-        "imgurl":"images/Logos/CSU-Blockchain/CSUB_logo_2.png",
+        "imgurl":"images/Logos/CSU-Blockchain/CSUB_logo_3.png",
         "url": "http://eepurl.com/huRFIL"
       }
     ],

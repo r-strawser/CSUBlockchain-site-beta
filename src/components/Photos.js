@@ -39,6 +39,19 @@ export default class photos extends Component {
                 </Col>
               </Row>
               <Row>
+              <Col xs={12} sm={8} md={8} lg={8}>
+                  <Card
+                    hoverable={true}
+                    style={{ width: '50%', marginLeft: 'auto', marginRight: 'auto', textAlign: 'center'}}
+                    bordered={false}
+                    cover={<img alt="example" src="images\Headshots\profile-pic-megan.jpg" />}
+                  >
+                  <Meta style={{ fontSize: '15px'}}
+                    title="Megan Keleman"
+                    description="Marketing Advisor"
+                  />
+                  </Card>
+                </Col>
                 <Col xs={12} sm={8} md={8} lg={8}>
                   <Card
                     hoverable={true}
@@ -48,20 +61,20 @@ export default class photos extends Component {
                   >
                   <Meta style={{ fontSize: '15px'}}
                     title="Drew Klausing"
-                    description="Secretary"
+                    description="Marketing"
                   />
                   </Card>
                 </Col>
                 <Col xs={12} sm={8} md={8} lg={8}>
                   <Card
                     hoverable={true}
-                    style={{ width: '50%', marginLeft: 'auto', marginRight: 'auto', textAlign: 'center'}}
+                    style={{ width: '45%', marginLeft: 'auto', marginRight: 'auto', textAlign: 'center' }}
                     bordered={false}
-                    cover={<img alt="example" src="images\Headshots\profile-pic-megan.jpg" />}
+                    cover={<img alt="example" src="images\Headshots\profile-pic-adam.jpg" />}
                   >
                   <Meta style={{ fontSize: '15px'}}
-                    title="Megan Keleman"
-                    description="Treasurer"
+                    title="Adam Clark"
+                    description="Business Development"
                   />
                   </Card>
                 </Col>
