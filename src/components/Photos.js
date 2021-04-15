@@ -72,7 +72,7 @@ export default class photos extends Component {
                     bordered={false}
                     cover={<img alt="example" src="images\Headshots\profile-pic-adam.jpg" />}
                   >
-                  <Meta style={{ fontSize: '15px'}}
+                  <Meta style={{ fontSize: '15px' }}
                     title="Adam Clark"
                     description="Business Development"
                   />
